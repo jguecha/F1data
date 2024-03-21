@@ -1,1 +1,1 @@
-This project is data pipeline using Azure tools.
+This project is a data pipeline example using Azure tools.
